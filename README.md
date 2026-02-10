@@ -12,9 +12,15 @@ git log – view complete commit history
 
 git commit -m "message" – create a commit with a message
 
+========================================================================================================================
+
 📅 9-02-2026 | What I learned today (Git Basics)
 
+========================================================================================================================
+
 git commit --amend -m "new message" – modify the most recent commit (message or staged changes)
+
+========================================================================================================================
 
 📅 10-02-2026 | What I learned today (Git Basics)
 
@@ -28,10 +34,12 @@ another way of switching branch
 
 git checkout <branch-name>
 
-view more info 
+view more info
 
 git branch -v
 
-git push force --force-with-lease -u origin oldies 
+git push force --force-with-lease -u origin oldies
 
 without overwrite other developer branch
+
+========================================================================================================================
