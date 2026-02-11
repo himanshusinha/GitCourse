@@ -43,3 +43,11 @@ git push force --force-with-lease -u origin oldies
 without overwrite other developer branch
 
 ========================================================================================================================
+
+📅 11-02-2026 | What I learned today (Git Basics)
+
+git checkout <branch-name> switch branch
+
+git switch -c <branch-name> create new branch and switch
+
+========================================================================================================================
